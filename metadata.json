@@ -1,0 +1,6 @@
+{
+  "name": "Blue Blood Alias",
+  "description": "Heritage & Identity Engine: US Persona & Anti-Collision Email generator based on generational pedigree and Apple HIG design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
